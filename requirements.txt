@@ -8,3 +8,6 @@ deeplake
 wandb
 matplotlib
 tqdm
+jupyter
+yacs
+gdown==4.6.0
