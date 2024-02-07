@@ -1,10 +1,12 @@
 # Light and Optimal Schrdinger Bridge Matching
 
-PyTorch implementation.
+This is the official PyTorch implementation of the pre-print [Light and Optimal Schrödinger Bridge Matching](https://arxiv.org/abs/2402.03207) by Nikita Gushchin, Sergei Kholkin, Evgeny Burnaev, Alexander Korotin. 
 
 ![image](alae_transfer.png)
 
 ## Installation
+
+python=3.10
 
 Install Entropic Optimal Transport Benchmark from [link](https://github.com/ngushchin/EntropicOTBenchmark/) (see their instructions)
 
