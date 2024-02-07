@@ -4,6 +4,18 @@ PyTorch implementation.
 
 ![image](alae_transfer.png)
 
+## Installation
+
+Install Entropic Optimal Transport Benchmark from [link](https://github.com/ngushchin/EntropicOTBenchmark/) (see their instructions)
+
+Install project requirements
+
+```pip install -r requirements.txt```
+
+For ALAE experiments install ALAE requirements
+
+```pip install -r ALAE/requirements.txt```
+
 ## Repository structure:
 
 ```ALAE``` - Code for the ALAE model.
@@ -21,3 +33,4 @@ PyTorch implementation.
 ```notebooks/LightSBM_swiss_roll.ipynb``` - code for Swiss Roll experiments.
 
 ```notebooks/LightSBM_ALAE.ipynb``` - Code for image experiments with ALAE.
+
