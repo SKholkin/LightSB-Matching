@@ -1,4 +1,4 @@
-# Light and Optimal Schrdinger Bridge Matching
+# Light and Optimal Schrödinger Bridge Matching
 
 This is the official PyTorch implementation of the pre-print [Light and Optimal Schrödinger Bridge Matching](https://arxiv.org/abs/2402.03207) by Nikita Gushchin, Sergei Kholkin, Evgeny Burnaev, Alexander Korotin. 
 
