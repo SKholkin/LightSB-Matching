@@ -13,9 +13,7 @@ Install project requirements
 
 ```pip install -r requirements.txt```
 
-For Entropic Optimal Transport Benchmark (EOTBench):
-Install EOTBench from [link](https://github.com/ngushchin/EntropicOTBenchmark/) (see their instructions)
-
+For Entropic Optimal Transport Benchmark (EOTBench) experiments install it from [link](https://github.com/ngushchin/EntropicOTBenchmark/) (see their instructions)
 
 For ALAE experiments install ALAE requirements
 
