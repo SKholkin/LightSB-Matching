@@ -38,7 +38,7 @@ For ALAE experiments install ALAE requirements
 ```notebooks/LightSBM_ALAE.ipynb``` - Code for image experiments with ALAE.
 
 ## Citation
-
+ 
 ```
 @misc{gushchin2024light,
       title={Light and Optimal Schr\"odinger Bridge Matching}, 
