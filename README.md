@@ -3,6 +3,7 @@
 This is the official PyTorch implementation of the pre-print [Light and Optimal Schrödinger Bridge Matching](https://arxiv.org/abs/2402.03207) by [Nikita Gushchin](https://scholar.google.ru/citations?user=UaRTbNoAAAAJ&hl=en&oi=sra), Sergei Kholkin, [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru), [Alexander Korotin](https://scholar.google.ru/citations?hl=en&user=1rIIvjAAAAAJ&view_op=list_works&sortby=pubdate). 
 
 **An example:** Unpaired *Adult* -> *Child* translation by out LightSB-M solver applied in the latent space of ALAE for 1024x1024 FFHQ images.
+
 ![image](alae_transfer.png)
 
 ## Installation
