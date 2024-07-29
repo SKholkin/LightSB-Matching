@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation of the pre-print [Light and Optimal Schrödinger Bridge Matching](https://arxiv.org/abs/2402.03207) by [Nikita Gushchin](https://scholar.google.ru/citations?user=UaRTbNoAAAAJ&hl=en&oi=sra), Sergei Kholkin, [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru), [Alexander Korotin](https://scholar.google.ru/citations?hl=en&user=1rIIvjAAAAAJ&view_op=list_works&sortby=pubdate). 
 
-For any joint distribution \pi(x_0, x_1) with p_0, p_1 marginals and corresponding Brownian Mixture, the proposed LightSB-M algorithm provably recovers the Schrödinger Bridge
+For any joint distribution $\pi(x_0, x_1)$ with $p_0$, $p_1$ marginals and corresponding Brownian Mixture, the proposed LightSB-M algorithm provably recovers the Schrödinger Bridge
 
 ![image](optimal_proj.png)
 
