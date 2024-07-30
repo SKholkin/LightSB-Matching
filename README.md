@@ -50,6 +50,7 @@ For ALAE experiments install ALAE requirements
 @inproceedings{gushchin2024light,
   title={Light and Optimal Schr{\"o}dinger Bridge Matching},
   author={Gushchin, Nikita and Kholkin, Sergei and Burnaev, Evgeny and Korotin, Alexander},
-  booktitle={Forty-first International Conference on Machine Learning}
+  booktitle={Forty-first International Conference on Machine Learning},
+  year={2024}
 }
 ```
