@@ -1,6 +1,6 @@
 # Light and Optimal Schrödinger Bridge Matching
 
-This is the official PyTorch implementation of our [ICML 2024](https://icml.cc/) paper [Light and Optimal Schrödinger Bridge Matching](https://arxiv.org/abs/2402.03207) by [Nikita Gushchin](https://scholar.google.ru/citations?user=UaRTbNoAAAAJ&hl=en&oi=sra), Sergei Kholkin, [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru), [Alexander Korotin](https://scholar.google.ru/citations?hl=en&user=1rIIvjAAAAAJ&view_op=list_works&sortby=pubdate). Our proposed light solver provably recovers the Schrödinger Bridge in just one Markovian Projection (Bridge Matching) iteration starting from any initial transport plan (independent, minibatch, etc.).
+This is the official PyTorch implementation of our [ICML 2024](https://icml.cc/) paper [Light and Optimal Schrödinger Bridge Matching](https://arxiv.org/abs/2402.03207) by [Nikita Gushchin](https://scholar.google.ru/citations?user=UaRTbNoAAAAJ&hl=en&oi=sra), [Sergei Kholkin](https://scholar.google.com/citations?user=KwhztSMAAAAJ&hl=en), [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru), [Alexander Korotin](https://scholar.google.ru/citations?hl=en&user=1rIIvjAAAAAJ&view_op=list_works&sortby=pubdate). Our proposed light solver provably recovers the Schrödinger Bridge in just one Markovian Projection (Bridge Matching) iteration starting from any initial transport plan (independent, minibatch, etc.).
 
 ![image](optimal_proj.png)
 
